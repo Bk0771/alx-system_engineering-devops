@@ -1,2 +1,2 @@
 #!/bin/bash
-#My shell redirection task
+My shell redirection task
